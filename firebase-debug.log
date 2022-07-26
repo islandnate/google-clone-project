@@ -1,0 +1,21 @@
+[debug] [2022-07-26T04:30:41.856Z] ----------------------------------------------------------------------
+[debug] [2022-07-26T04:30:41.858Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ponte\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2022-07-26T04:30:41.859Z] CLI Version:   11.3.0
+[debug] [2022-07-26T04:30:41.859Z] Platform:      win32
+[debug] [2022-07-26T04:30:41.859Z] Node Version:  v16.15.0
+[debug] [2022-07-26T04:30:41.860Z] Time:          Mon Jul 25 2022 21:30:41 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-07-26T04:30:41.860Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-26T04:30:41.868Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-26T04:30:41.869Z] > authorizing via signed-in user (pontenate@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ponte\OneDrive\Desktop\google-clone-project
+
