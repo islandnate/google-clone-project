@@ -37,35 +37,35 @@ const SearchPage = () => {
                         <div className="search__page--options--left">
                             <div className="search__page--option">
                                 <SearchIcon />
-                                <Link to="/all">All</Link>
+                                <Link to="/search">All</Link>
                             </div>
                             <div className="search__page--option">
                                 <DescriptionIcon />
-                                <Link to="/news">News</Link>
+                                <Link to="/search">News</Link>
                             </div>
                             <div className="search__page--option">
                                 <ImageIcon />
-                                <Link to="/images">Images</Link>
+                                <Link to="/search">Images</Link>
                             </div>
                             <div className="search__page--option">
                                 <LocalOfferIcon />
-                                <Link to="/shopping">Shopping</Link>
+                                <Link to="/search">Shopping</Link>
                             </div>
                             <div className="search__page--option">
                                 <RoomIcon />
-                                <Link to="/maps">Maps</Link>
+                                <Link to="/search">Maps</Link>
                             </div>
                             <div className="search__page--option">
                                 <MoreVertIcon />
-                                <Link to="/more">More</Link>
+                                <Link to="/search">More</Link>
                             </div>
                         </div>
                         <div className="search__page--options--right">
                             <div className="search__page--option">
-                                <Link to="/settings">Settings</Link>
+                                <Link to="/search">Settings</Link>
                             </div>
                             <div className="search__page--option">
-                                <Link to="/tools">Tools</Link>
+                                <Link to="/search">Tools</Link>
                             </div>
                         </div>
                     </div>

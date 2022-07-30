@@ -51,3 +51,7 @@
 .search__buttons--hidden{
     display: none !important
 }
+
+.lucky:hover{
+    cursor: not-allowed;
+}

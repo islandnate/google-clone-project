@@ -49,8 +49,16 @@
     margin-right: 20px;
 }
 
+.search__page--option:hover{
+    cursor: not-allowed;
+}
+
 .search__page--option a{
     margin-left: 5px;
+}
+
+.search__page--option a:hover{
+    cursor: not-allowed;
 }
 
 .search__page--result{
